@@ -5,6 +5,6 @@ This is Test **Discrod BOT** with name "VLADIK
 
 
 1. You need install pip requierments.txt
-2. Create .env and type **TOKEN = "YOUR TOKEN"**
-3. Run with command **python main.py**
+2. Create .env and type  **`TOKEN = "YOUR TOKEN"`**
+3. Run with command **``python main.py``**
 
